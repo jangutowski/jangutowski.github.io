@@ -1,0 +1,126 @@
+.para1{font-size: 0; text-align:left; padding-bottom:6px; margin-top:0px; padding-top:0px;}
+.Style2{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 24px; 
+ word-wrap: break-word;}
+.Style3{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 24px; 
+ font-style: italic;
+ word-wrap: break-word;}
+.Style4{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 24px; 
+ margin:0;
+ word-wrap: break-word;}
+.Style5{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 24px; 
+ font-weight:700; 
+ font-style: italic;
+ word-wrap: break-word;}
+.para6{font-size: 0; text-align:left; padding-bottom:0px; margin-top:0px; padding-top:0px;}
+.Style7{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 24px; 
+ background-color: #FEFEFF; 
+ word-wrap: break-word;}
+.linkStyle_8{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 24px; 
+ color: #0432FF;
+ text-decoration: underline; 
+ /* 0 0 0 #00F900 #0432FE #FF2600 */
+ background-color: #FEFEFF; 
+ word-wrap: break-word;}
+.linkStyle_8:visited{color:#0432FE; text-decoration:underline;}
+.linkStyle_8:hover{color:#FF2600; text-decoration:underline;}
+.Style4:visited{color:#FEFB00; text-decoration:underline;}
+.Style4:hover{color:#FF2600; text-decoration:underline;}
+.Style13{font-family:  'Georgia-Bold', 'Georgia' ,serif ;
+ font-size: 24px; 
+ font-weight:700; 
+ margin:0;
+ text-decoration: underline;
+ word-wrap: break-word;}
+.para14{font-size: 0; text-align:center; padding-bottom:6px; margin-top:0px; padding-top:0px;}
+.Style15{font-family:  'Georgia-Bold', 'Georgia' ,serif ;
+ font-size: 24px; 
+ font-weight:700; 
+ text-decoration: underline;
+ word-wrap: break-word;}
+.Style16{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 24px; 
+ margin:0;
+ background-color: #FEFEFF; 
+ word-wrap: break-word;}
+.para17{font-size: 0; text-align:left; padding-bottom:0px; padding-top:4px;}
+.linkStyle_18{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 24px; 
+ margin:0;
+ text-decoration: underline;
+ color: #0432FF;
+ background-color: #FEFEFF; 
+ word-wrap: break-word;}
+.linkStyle_18:visited{color:#FEFB00; text-decoration:underline;}
+.linkStyle_18:hover{color:#FF2600; text-decoration:underline;}
+.linkStyle_21{font-family:  'Georgia' ,serif ;
+ font-size: 20px; 
+ margin:0;
+ text-decoration: underline;
+ color: #0432FF;
+ background-color: #FEFEFF; 
+ word-wrap: break-word;}
+.linkStyle_21:visited{color:#0432FE; text-decoration:underline;}
+.linkStyle_21:hover{color:#FF2600; text-decoration:underline;}
+.linkStyle_24{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+ font-size: 12px; 
+ margin:0;
+ word-wrap: break-word;}
+.linkStyle_24:visited{color:#FEFB00; text-decoration:underline;}
+.linkStyle_24:hover{color:#FF2600; text-decoration:underline;}
+.Style27{font-family:  'Georgia' ,serif ;
+ font-size: 20px; 
+ margin:0;
+ background-color: #FEFEFF; 
+ word-wrap: break-word;}
+.Style28{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 12px; 
+ margin:0;
+ word-wrap: break-word;}
+.Style29{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 24px; 
+ font-weight:700; 
+ text-decoration: underline;
+ background-color: #FEFEFF; 
+ word-wrap: break-word;}
+.Style30{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 24px; 
+ font-weight:700; 
+ margin:0;
+ text-decoration: underline;
+ background-color: #FEFEFF; 
+ word-wrap: break-word;}
+.Style31{font-family:  'Helvetica-Bold', 'Helvetica' ,sans-serif ;
+ font-size: 24px; 
+ font-weight:700; 
+ background-color: #FEFEFF; 
+ word-wrap: break-word;}
+a.outerlink{text-decoration:none}
+.animhidden{opacity: 0}
+.animvisible{opacity: 1}
+.Style35{font-family:  'Helvetica-Bold', 'Helvetica' ,sans-serif ;
+ font-size: 24px; 
+ font-weight:700; 
+ margin:0;
+ word-wrap: break-word;}
+.Style36{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 24px; 
+ text-decoration: underline;
+ color: #0432FF;
+ background-color: #FEFEFF; 
+ word-wrap: break-word;}
+.linkStyle_37{font-family:  'Helvetica-Bold', 'Helvetica' ,sans-serif ;
+ font-size: 24px; 
+ font-weight:700; 
+ color: #0432FF;
+ text-decoration: underline; 
+ /* 0 0 0 #00F900 #0432FE #FF2600 */
+ background-color: #FEFEFF; 
+ word-wrap: break-word;}
+.linkStyle_37:visited{color:#0432FE; text-decoration:underline;}
+.linkStyle_37:hover{color:#FF2600; text-decoration:underline;}
