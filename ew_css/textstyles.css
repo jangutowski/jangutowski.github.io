@@ -1,13 +1,16 @@
 .para1{font-size: 0; text-align:left; padding-bottom:6px; margin-top:0px; padding-top:0px;}
 .Style2{font-family:  'Helvetica' ,sans-serif ;
  font-size: 24px; 
+ font-weight:normal; 
  word-wrap: break-word;}
 .Style3{font-family:  'Helvetica' ,sans-serif ;
  font-size: 24px; 
+ font-weight:normal; 
  font-style: italic;
  word-wrap: break-word;}
 .Style4{font-family:  'Helvetica' ,sans-serif ;
  font-size: 24px; 
+ font-weight:normal; 
  margin:0;
  word-wrap: break-word;}
 .Style5{font-family:  'Helvetica' ,sans-serif ;
@@ -18,19 +21,31 @@
 .para6{font-size: 0; text-align:left; padding-bottom:0px; margin-top:0px; padding-top:0px;}
 .Style7{font-family:  'Helvetica' ,sans-serif ;
  font-size: 24px; 
+ font-weight:normal; 
  background-color: #FEFEFF; 
  word-wrap: break-word;}
-.linkStyle_8{font-family:  'Helvetica' ,sans-serif ;
+.Style8{font-family:  'Helvetica' ,sans-serif ;
  font-size: 24px; 
+ font-weight:normal; 
+ margin:0;
+ background-color: #FEFEFF; 
+ word-wrap: break-word;}
+.Style9{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 20px;
+ vertical-align: -6px;
+ font-weight:normal; 
+ background-color: #FEFEFF; 
+ word-wrap: break-word;}
+.linkStyle_10{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 24px; 
+ font-weight:normal; 
  color: #0432FF;
  text-decoration: underline; 
  /* 0 0 0 #00F900 #0432FE #FF2600 */
  background-color: #FEFEFF; 
  word-wrap: break-word;}
-.linkStyle_8:visited{color:#0432FE; text-decoration:underline;}
-.linkStyle_8:hover{color:#FF2600; text-decoration:underline;}
-.Style4:visited{color:#FEFB00; text-decoration:underline;}
-.Style4:hover{color:#FF2600; text-decoration:underline;}
+.linkStyle_10:visited{color:#0432FE; text-decoration:underline;}
+.linkStyle_10:hover{color:#FF2600; text-decoration:underline;}
 .Style13{font-family:  'Georgia-Bold', 'Georgia' ,serif ;
  font-size: 24px; 
  font-weight:700; 
@@ -43,76 +58,79 @@
  font-weight:700; 
  text-decoration: underline;
  word-wrap: break-word;}
-.Style16{font-family:  'Helvetica' ,sans-serif ;
+.para16{font-size: 0; text-align:left; padding-bottom:0px; padding-top:4px;}
+.linkStyle_17{font-family:  'Helvetica' ,sans-serif ;
  font-size: 24px; 
- margin:0;
+ font-weight:normal; 
+ color: #0432FF;
+ text-decoration: underline; 
+ /* 0 0 0 #00F900 #0432FF #FF2600 */
  background-color: #FEFEFF; 
  word-wrap: break-word;}
-.para17{font-size: 0; text-align:left; padding-bottom:0px; padding-top:4px;}
-.linkStyle_18{font-family:  'Helvetica' ,sans-serif ;
+.linkStyle_17:visited{color:#0432FF; text-decoration:underline;}
+.linkStyle_17:hover{color:#FF2600; text-decoration:underline;}
+.linkStyle_20{font-family:  'Helvetica' ,sans-serif ;
  font-size: 24px; 
+ font-weight:normal; 
  margin:0;
  text-decoration: underline;
  color: #0432FF;
  background-color: #FEFEFF; 
  word-wrap: break-word;}
-.linkStyle_18:visited{color:#FEFB00; text-decoration:underline;}
-.linkStyle_18:hover{color:#FF2600; text-decoration:underline;}
-.linkStyle_21{font-family:  'Georgia' ,serif ;
+.linkStyle_20:visited{color:#FEFB00; text-decoration:underline;}
+.linkStyle_20:hover{color:#FF2600; text-decoration:underline;}
+.Style4:visited{color:#FEFB00; text-decoration:underline;}
+.Style4:hover{color:#FF2600; text-decoration:underline;}
+.linkStyle_25{font-family:  'Georgia' ,serif ;
  font-size: 20px; 
+ font-weight:normal; 
  margin:0;
  text-decoration: underline;
  color: #0432FF;
  background-color: #FEFEFF; 
  word-wrap: break-word;}
-.linkStyle_21:visited{color:#0432FE; text-decoration:underline;}
-.linkStyle_21:hover{color:#FF2600; text-decoration:underline;}
-.linkStyle_24{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+.linkStyle_25:visited{color:#0432FE; text-decoration:underline;}
+.linkStyle_25:hover{color:#FF2600; text-decoration:underline;}
+.linkStyle_28{font-family:  'ArialMT', 'Arial' ,sans-serif ;
  font-size: 12px; 
+ font-weight:normal; 
  margin:0;
  word-wrap: break-word;}
-.linkStyle_24:visited{color:#FEFB00; text-decoration:underline;}
-.linkStyle_24:hover{color:#FF2600; text-decoration:underline;}
-.Style27{font-family:  'Georgia' ,serif ;
+.linkStyle_28:visited{color:#FEFB00; text-decoration:underline;}
+.linkStyle_28:hover{color:#FF2600; text-decoration:underline;}
+.Style31{font-family:  'Georgia' ,serif ;
  font-size: 20px; 
+ font-weight:normal; 
  margin:0;
  background-color: #FEFEFF; 
  word-wrap: break-word;}
-.Style28{font-family:  'Helvetica' ,sans-serif ;
+.Style32{font-family:  'Helvetica' ,sans-serif ;
  font-size: 12px; 
+ font-weight:normal; 
  margin:0;
  word-wrap: break-word;}
-.Style29{font-family:  'Helvetica' ,sans-serif ;
- font-size: 24px; 
- font-weight:700; 
- text-decoration: underline;
- background-color: #FEFEFF; 
- word-wrap: break-word;}
-.Style30{font-family:  'Helvetica' ,sans-serif ;
+.Style33{font-family:  'Helvetica' ,sans-serif ;
  font-size: 24px; 
  font-weight:700; 
  margin:0;
  text-decoration: underline;
  background-color: #FEFEFF; 
  word-wrap: break-word;}
-.Style31{font-family:  'Helvetica-Bold', 'Helvetica' ,sans-serif ;
+.Style34{font-family:  'Helvetica' ,sans-serif ;
  font-size: 24px; 
  font-weight:700; 
+ text-decoration: underline;
  background-color: #FEFEFF; 
  word-wrap: break-word;}
-a.outerlink{text-decoration:none}
-.animhidden{opacity: 0}
-.animvisible{opacity: 1}
 .Style35{font-family:  'Helvetica-Bold', 'Helvetica' ,sans-serif ;
  font-size: 24px; 
  font-weight:700; 
- margin:0;
- word-wrap: break-word;}
-.Style36{font-family:  'Helvetica' ,sans-serif ;
- font-size: 24px; 
- text-decoration: underline;
- color: #0432FF;
  background-color: #FEFEFF; 
+ word-wrap: break-word;}
+.Style36{font-family:  'Helvetica-Bold', 'Helvetica' ,sans-serif ;
+ font-size: 24px; 
+ font-weight:700; 
+ margin:0;
  word-wrap: break-word;}
 .linkStyle_37{font-family:  'Helvetica-Bold', 'Helvetica' ,sans-serif ;
  font-size: 24px; 
@@ -124,3 +142,6 @@ a.outerlink{text-decoration:none}
  word-wrap: break-word;}
 .linkStyle_37:visited{color:#0432FE; text-decoration:underline;}
 .linkStyle_37:hover{color:#FF2600; text-decoration:underline;}
+a.outerlink{text-decoration:none}
+.animhidden{opacity: 0}
+.animvisible{opacity: 1}
