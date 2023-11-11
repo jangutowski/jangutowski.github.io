@@ -1,42 +1,42 @@
 .para1{font-size: 0; text-align:left; padding-bottom:6px; margin-top:0px; padding-top:0px;}
-.Style2{font-family:  'Helvetica' ,sans-serif ;
+.Style2{font-family:  'Helvetica' ,'Arial' ,sans-serif ;
  font-size: 24px; 
  font-weight:normal; 
  word-wrap: break-word;}
-.Style3{font-family:  'Helvetica' ,sans-serif ;
+.Style3{font-family:  'Helvetica' ,'Arial' ,sans-serif ;
  font-size: 24px; 
  font-weight:normal; 
  font-style: italic;
  word-wrap: break-word;}
-.Style4{font-family:  'Helvetica' ,sans-serif ;
+.Style4{font-family:  'Helvetica' ,'Arial' ,sans-serif ;
  font-size: 24px; 
  font-weight:normal; 
  margin:0;
  word-wrap: break-word;}
-.Style5{font-family:  'Helvetica' ,sans-serif ;
+.Style5{font-family:  'Helvetica' ,'Arial' ,sans-serif ;
  font-size: 24px; 
  font-weight:700; 
  font-style: italic;
  word-wrap: break-word;}
 .para6{font-size: 0; text-align:left; padding-bottom:0px; margin-top:0px; padding-top:0px;}
-.Style7{font-family:  'Helvetica' ,sans-serif ;
+.Style7{font-family:  'Helvetica' ,'Arial' ,sans-serif ;
  font-size: 24px; 
  font-weight:normal; 
  background-color: #FEFEFF; 
  word-wrap: break-word;}
-.Style8{font-family:  'Helvetica' ,sans-serif ;
+.Style8{font-family:  'Helvetica' ,'Arial' ,sans-serif ;
  font-size: 24px; 
  font-weight:normal; 
  margin:0;
  background-color: #FEFEFF; 
  word-wrap: break-word;}
-.Style9{font-family:  'Helvetica' ,sans-serif ;
+.Style9{font-family:  'Helvetica' ,'Arial' ,sans-serif ;
  font-size: 20px;
  vertical-align: -6px;
  font-weight:normal; 
  background-color: #FEFEFF; 
  word-wrap: break-word;}
-.linkStyle_10{font-family:  'Helvetica' ,sans-serif ;
+.linkStyle_10{font-family:  'Helvetica' ,'Arial' ,sans-serif ;
  font-size: 24px; 
  font-weight:normal; 
  color: #0432FF;
@@ -59,7 +59,7 @@
  text-decoration: underline;
  word-wrap: break-word;}
 .para16{font-size: 0; text-align:left; padding-bottom:0px; padding-top:4px;}
-.linkStyle_17{font-family:  'Helvetica' ,sans-serif ;
+.linkStyle_17{font-family:  'Helvetica' ,'Arial' ,sans-serif ;
  font-size: 24px; 
  font-weight:normal; 
  color: #0432FF;
@@ -69,7 +69,7 @@
  word-wrap: break-word;}
 .linkStyle_17:visited{color:#0432FF; text-decoration:underline;}
 .linkStyle_17:hover{color:#FF2600; text-decoration:underline;}
-.linkStyle_20{font-family:  'Helvetica' ,sans-serif ;
+.linkStyle_20{font-family:  'Helvetica' ,'Arial' ,sans-serif ;
  font-size: 24px; 
  font-weight:normal; 
  margin:0;
@@ -104,35 +104,41 @@
  margin:0;
  background-color: #FEFEFF; 
  word-wrap: break-word;}
-.Style32{font-family:  'Helvetica' ,sans-serif ;
+.Style32{font-family:  'Helvetica' ,'Arial' ,sans-serif ;
  font-size: 12px; 
  font-weight:normal; 
  margin:0;
  word-wrap: break-word;}
-.Style33{font-family:  'Helvetica' ,sans-serif ;
+.Style33{font-family:  'Helvetica' ,'Arial' ,sans-serif ;
  font-size: 24px; 
  font-weight:700; 
  margin:0;
  text-decoration: underline;
  background-color: #FEFEFF; 
  word-wrap: break-word;}
-.Style34{font-family:  'Helvetica' ,sans-serif ;
+.Style34{font-family:  'Helvetica' ,'Arial' ,sans-serif ;
  font-size: 24px; 
  font-weight:700; 
  text-decoration: underline;
  background-color: #FEFEFF; 
  word-wrap: break-word;}
-.Style35{font-family:  'Helvetica-Bold', 'Helvetica' ,sans-serif ;
+.Style35{font-family:  'Helvetica' ,'Arial' ,sans-serif ;
  font-size: 24px; 
  font-weight:700; 
  background-color: #FEFEFF; 
  word-wrap: break-word;}
-.Style36{font-family:  'Helvetica-Bold', 'Helvetica' ,sans-serif ;
+.Style36{font-family:  'Helvetica-Bold', 'Helvetica' ,'Arial' ,sans-serif ;
+ font-size: 24px; 
+ font-weight:700; 
+ background-color: #FEFEFF; 
+ word-wrap: break-word;}
+.Style37{font-family:  'Helvetica-Bold', 'Helvetica' ,'Arial' ,sans-serif ;
  font-size: 24px; 
  font-weight:700; 
  margin:0;
+ background-color: #FEFEFF; 
  word-wrap: break-word;}
-.linkStyle_37{font-family:  'Helvetica-Bold', 'Helvetica' ,sans-serif ;
+.linkStyle_38{font-family:  'Helvetica-Bold', 'Helvetica' ,'Arial' ,sans-serif ;
  font-size: 24px; 
  font-weight:700; 
  color: #0432FF;
@@ -140,8 +146,8 @@
  /* 0 0 0 #00F900 #0432FE #FF2600 */
  background-color: #FEFEFF; 
  word-wrap: break-word;}
-.linkStyle_37:visited{color:#0432FE; text-decoration:underline;}
-.linkStyle_37:hover{color:#FF2600; text-decoration:underline;}
+.linkStyle_38:visited{color:#0432FE; text-decoration:underline;}
+.linkStyle_38:hover{color:#FF2600; text-decoration:underline;}
 a.outerlink{text-decoration:none}
 .animhidden{opacity: 0}
 .animvisible{opacity: 1}
